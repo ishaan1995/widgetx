@@ -3,6 +3,8 @@ Superpowers for your flutter widgets.
 
 Collection of useful extensions on Flutter's Widget Kit.
 
-A small gist of what this is about
+# WIP
+This is highly experimental and not recommened for anyone to use at the moment.
 
-![](art/carbon.png)
+A small preview of what this is about:
+![](https://raw.githubusercontent.com/ishaan1995/widgetx/master/art/carbon.png "Concept of Widget Extensions")
