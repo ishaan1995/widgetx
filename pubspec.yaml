@@ -1,8 +1,7 @@
 name: widgetx
 description: A new Flutter package project.
 version: 0.0.2
-author:
-homepage:
+homepage: https://github.com/ishaan1995/widgetx
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
