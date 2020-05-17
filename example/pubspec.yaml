@@ -1,0 +1,17 @@
+name: example
+description: WidgetX Sample Project
+version: 1.0.0
+
+environment:
+    sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  widgetx:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

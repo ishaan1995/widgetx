@@ -12,7 +12,11 @@ extension WidgetX on Widget {
     );
   }
 
-  Widget scaffold({Key key, PreferredSizeWidget appbar, Widget floatingActionButton,}) {
+  Widget scaffold({
+    Key key,
+    PreferredSizeWidget appbar,
+    Widget floatingActionButton,
+  }) {
     return Scaffold(
       key: key,
       body: this,
