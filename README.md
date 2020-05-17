@@ -1,4 +1,4 @@
-# Widgetx
+# WidgetX
 Superpowers for your flutter widgets.
 
 Collection of useful extensions on Flutter's Widget Kit.
@@ -34,8 +34,31 @@ class App extends StatelessWidget {
 }
 ```
 
-# WIP
-This package is just in pre-release and should be avoided for production apps.
+# Docs
+Widget library docs at: https://pub.dev/documentation/widgetx/latest/
+
+## Available extensions
+
+#### Alignment
+
+`center()`, `centerLeft()`, `centerRight()`, `topLeft()`, `...`
+
+#### Layouts
+`row()`, `column()`, `stack()`, `container()`, `center()`, `padding()`, `...`
+
+#### Texts
+`text()`, `textCenter()`, `networkImage()`, `circleAvatar()`, `...`
+
+#### Lists
+`texts()`
+
+# Todo
+- [ ] Add Docs for each extensions and examples.
+- [ ] Add tests to widget extensions.
+- [ ] Add more relevant extensions.
+
+# Status
+This package at the moment is in pre-release and should be avoided for production apps.
 Feel free to raise issues around concerns, improvements.
 
 # Preview
