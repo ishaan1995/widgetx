@@ -1,6 +1,6 @@
 name: widgetx
-description: Collection of useful extensions on Flutter's Widget Kit.
-version: 0.1.0
+description: Superpowers for your flutter widgets. Collection of useful extensions on Flutter's Widget Kit.
+version: 0.1.1
 homepage: https://github.com/ishaan1995/widgetx
 
 environment:

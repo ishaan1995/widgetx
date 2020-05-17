@@ -1,3 +1,6 @@
+## [0.1.1] - 18/05/2020
+* Hotfix: default value for main, cross axis alignment for row, column extensions.
+
 ## [0.1.0] - 18/05/2020
 * First usagable release of widgetx package.
 * Added text, list, align extensions.
