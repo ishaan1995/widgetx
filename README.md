@@ -12,7 +12,7 @@ In your flutter project add `widgetx` as a dependency in `pubspec.yaml`:
 ```yml
 dependencies:
   ...
-  widgetx: ^0.1.0
+  widgetx: ^0.1.1
     
 ```
 

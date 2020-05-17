@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'widgetx_helper.dart' show helperx;
 
 /// WidgetX extensions to power our flutter widgets
 /// Highly experimental. API not stable yet.
@@ -155,8 +154,8 @@ extension WidgetListX on List<Widget> {
     return Row(
       key: key,
       children: this,
-      mainAxisAlignment: mainAxisAlignment,
-      crossAxisAlignment: crossAxisAlignment,
+      mainAxisAlignment: mainAxisAlignment ?? MainAxisAlignment.start,
+      crossAxisAlignment: crossAxisAlignment ?? CrossAxisAlignment.center,
     );
   }
 
@@ -168,15 +167,13 @@ extension WidgetListX on List<Widget> {
     return Column(
       key: key,
       children: this,
-      mainAxisAlignment: mainAxisAlignment,
-      crossAxisAlignment: crossAxisAlignment,
+      mainAxisAlignment: mainAxisAlignment ?? MainAxisAlignment.start,
+      crossAxisAlignment: crossAxisAlignment ?? CrossAxisAlignment.center,
     );
   }
 
   Stack stack({
     Key key,
-    MainAxisAlignment mainAxisAlignment,
-    CrossAxisAlignment crossAxisAlignment,
   }) {
     return Stack(
       key: key,
