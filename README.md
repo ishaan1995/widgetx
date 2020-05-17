@@ -28,11 +28,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: <Widget>[
-        'Item 1'.text(),
-        'Item 2'.text(),
-        'Item 3'.text(),
-      ].column().container(),
+      home: ['apple', 'oranges', 'grapes'].texts().column().container(),
     );
   }
 }
