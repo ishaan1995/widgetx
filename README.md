@@ -1,4 +1,6 @@
 # WidgetX
+[![widgetx](https://img.shields.io/pub/v/widgetx?label=widgetx)](https://pub.dev/packages/widgetx)
+
 Superpowers for your flutter widgets.
 
 Collection of useful extensions on Flutter's Widget Kit.
