@@ -1,6 +1,16 @@
 theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
+
+permalink: pretty
 exclude: ["LICENSE", "lib/", "art/", "test/", "example/", "README.md", "pubspec.yaml", "pubspec.lock"] 
 search_enabled: false
 color_scheme: "dark"
+
+# Aux links for the upper right navigation
+aux_links:
+    "WidgetX on GitHub":
+      - "//github.com/ishaan1995/widgetx"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020-2021 Ishaan Kakkar. Distributed by an <a href=\"https://github.com/ishaan1995/widgetx/blob/master/LICENSE\">BSD license.</a>"
 
