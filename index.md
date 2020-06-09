@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Superpowers for your flutter widgets."
+permalink: /
+---
+
 # WidgetX
 [![widgetx](https://img.shields.io/pub/v/widgetx?label=widgetx)](https://pub.dev/packages/widgetx)
 

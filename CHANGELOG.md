@@ -1,3 +1,11 @@
+---
+layout: default
+title: Changelog
+nav_order: 3
+description: "Changelog for widgetx."
+permalink: /changelog
+---
+
 ## [0.1.1] - 18/05/2020
 * Hotfix: default value for main, cross axis alignment for row, column extensions.
 

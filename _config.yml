@@ -1,1 +1,6 @@
+theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
+exclude: ["LICENSE", "lib/", "art/", "test/", "example/", "README.md", "pubspec.yaml", "pubspec.lock"] 
+search_enabled: false
+color_scheme: "dark"
+
