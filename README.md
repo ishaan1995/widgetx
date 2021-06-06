@@ -38,6 +38,7 @@ class App extends StatelessWidget {
 
 # Docs
 Docs: https://ishaan1995.github.io/widgetx/
+
 Widget library docs at: https://pub.dev/documentation/widgetx/latest/
 
 ## Available extensions
